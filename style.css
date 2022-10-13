@@ -1,0 +1,162 @@
+.parallax_header {
+    background-image: url(image/2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text_header {
+    padding: 530px 0 14px 86px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #fff;
+}
+.text_header2 {
+    padding-left: 89px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #fff;
+}
+.logo_orange {
+    display: inline-block;
+    margin: 28px 0 145px 82px;
+    padding: 49px 34px 42px 29px;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    color: #f1ad1d;
+}
+.text_logo_white {
+    opacity: 1;
+}
+.logo_white {
+    display: inline-block;
+    margin-left: -0.1em;
+    padding: 48px 56px 41px 26px;
+    border: solid 1px #fff;
+    background: rgba(0, 0, 0, 0.2);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    color: #fff;
+}
+.block_text {
+    background-color: #fff;
+}
+.text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 0.82;
+    color: #333;
+    text-align: center; 
+}
+.text2 {
+    font-family: 'Lato',sans-serif;
+    font-size: 17px;
+    line-height: 1.41;
+    text-align: center;
+    color: #4d4943;
+}
+.about_us {
+    padding-top: 112px;
+}
+.about_us_alt {
+    padding: 35px 0 52px 0;
+}
+.line_about_us {
+    margin-bottom: 136px;
+    border: none;
+    background-color: #f1ad1d;;
+    height: 4px;
+    width: 60px
+   }
+.parallax_ideas {
+    background-image: url(image/3.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 380px;
+}
+.text_ideas {
+    padding: 150px 0 60px 0;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+}
+.text_ideas_orange {
+    color: #f1ad1d
+}
+.line_parallax_ideas {
+    border: none;
+    background-color: #f1ad1d;;
+    height: 4px;
+    width: 60px
+}
+.secret_company {
+    padding-top: 136px;
+}
+.secret_company_alt {
+    padding: 35px 0 52px 0;
+}
+.parallax_featured {
+    background-image: url(image/1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 475px;
+}
+.logo_box {
+    display: flex;
+    margin: 57px 0 114px 0;
+    justify-content: center;
+    align-items: center;
+}
+.logo_svg {
+    margin-right: 60px;
+}
+.trust_us {
+    padding-top: 157px;
+}
+.trust_us_alt {
+    padding: 35px 0 52px 0;
+}
+.parallax_check {
+    background-image: url(image/4.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 485px;
+}
+.text_check {
+    margin: 0 auto;
+    width: 573px;
+    padding: 59px 0 44px 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.67;
+    color: #fff;
+    text-align: center;
+}
+.line_check {
+    border: none;
+    background-color: white;
+    height: 3px;
+    width: 281px;
+}
+.parallax_check .text_ideas {
+    padding-top: 130px;
+}
+.footer {
+    padding: 154px 0 35px 0;  
+}
+.footer_alt {
+    padding-bottom: 179px;
+}
